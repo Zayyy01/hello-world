@@ -2,4 +2,6 @@
 
 Test started...
 
-Test isn't ended yet!
+(Test isn't ended yet!)
+
+...Test ended.
